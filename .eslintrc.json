@@ -11,6 +11,7 @@
       }
     },
     "extends": [
+        "next/babel",
         "eslint:recommended",
         "plugin:react/recommended",
         "plugin:@typescript-eslint/recommended",
